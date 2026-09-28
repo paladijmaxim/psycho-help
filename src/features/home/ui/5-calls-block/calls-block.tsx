@@ -36,6 +36,7 @@ const CallsBlock = () => {
               <span className={styles.calls__phone_text}>с мобильного телефона</span>
             </div>
           </div>
+          
           <div className={styles.calls__item}>
             <span className={styles.calls__title}>
               Горячей линии по психологической помощи студенческой молодежи:
